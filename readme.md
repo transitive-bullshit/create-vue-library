@@ -6,7 +6,7 @@
 
 ## Status
 
-**This project is an active WIP**. It is a fork of [create-react-library](https://github.com/transitive-bullshit/create-react-library).
+**This project is an active WIP**. It is a fork of [create-vue-library](https://github.com/transitive-bullshit/create-vue-library).
 
 
 ## Features
