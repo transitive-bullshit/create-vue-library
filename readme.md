@@ -1,6 +1,6 @@
 # create-vue-library
 
-> CLI for creating reusable, modern React libraries using Rollup and create-vue-app.
+> CLI for creating reusable, modern Vue libraries using Rollup and create-vue-app.
 
 [![NPM](https://img.shields.io/npm/v/create-vue-library.svg)](https://www.npmjs.com/package/create-vue-library) [![Build Status](https://travis-ci.com/transitive-bullshit/create-vue-library.svg?branch=master)](https://travis-ci.com/transitive-bullshit/create-vue-library) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
